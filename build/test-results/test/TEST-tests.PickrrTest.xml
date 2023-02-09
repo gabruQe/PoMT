@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.PickrrTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-31T06:45:42" hostname="TECH-SHUBHAM.local" time="1.623">
+  <properties/>
+  <testcase name="navigate_to_login" classname="tests.PickrrTest" time="1.623"/>
+  <system-out><![CDATA[We are currently on the following URLhttps://pickrr.com/
+Page title of new tab:Pickrr Dashboard - Sign Up for Free
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
